@@ -15,6 +15,10 @@ Descreva resumidamente como será a apresentação, o tema abordado e parte dos 
 
 Escolha entre 15, 20 ou 30 minutos
 
+## Nível
+
+Iniciando, Intermediário ou Avançado
+
 ## Autor
 
 Faça uma breve descrição sobre você
