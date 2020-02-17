@@ -21,3 +21,7 @@ Já já vamos abrir a inscrição e você vai poder confirmar a sua preseça, fi
 
 ## Empresas que colaboraram com o Meetup
 
+Nome | Logo
+------------ | -------------
+Máximus Soluções|![Maximus Logo](/sponsors/MaximusSolucoes.png)
+Wine | ![Wine Logo](/sponsors/wine.png)
