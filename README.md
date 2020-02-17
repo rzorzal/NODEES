@@ -15,9 +15,20 @@ Você pode falar sobre qualquer assunto relacionado ao tema **(Node.js)** e deix
 
 Para essa primeira edição, esperamos trabalhos até o dia **19 de Março**.
 
+Use o template de **Talk** para submeter a sua.
+
 ## Como participar
 
 Já já vamos abrir a inscrição e você vai poder confirmar a sua preseça, fique ligado no repositório, dê um Watch e uma Star para não perder nada :)
+
+## Agenda
+
+Horário | Evento
+------------ | -------------
+19:30 às 20:00 | Credenciamento
+20:00 às 20:30 | TALK 1
+20:30 às 21:00 | Coffee Break
+21:00 às 21:30 | TALK 2
 
 ## Empresas que colaboraram com o Meetup
 
