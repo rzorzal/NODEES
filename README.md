@@ -13,13 +13,16 @@ Caso queira submeter uma talk, use esse repositório acessando as issues. Lá de
 
 Você pode falar sobre qualquer assunto relacionado ao tema **(Node.js)** e deixe a sua imaginação fluir :)
 
-Para essa primeira edição, esperamos trabalhos até o dia **19 de Março**.
+Para essa primeira edição, esperamos trabalhos até o dia **26 de Março**.
 
 Use o template de **Talk** para submeter a sua.
 
 ## Como participar
 
-Já já vamos abrir a inscrição e você vai poder confirmar a sua preseça, fique ligado no repositório, dê um Watch e uma Star para não perder nada :)
+Você pode fazer a inscrição pelo link abaixo:
+https://www.sympla.com.br/node-es__799876
+
+Sua presença será indispensável!
 
 ## Agenda
 
@@ -34,5 +37,6 @@ Horário | Evento
 
 Nome | Logo
 ------------ | -------------
-Máximus Soluções|![Maximus Logo](/sponsors/MaximusSolucoes.png)
-Wine | ![Wine Logo](/sponsors/wine.png)
+[Máximus Soluções](https://www.maximussolucoes.com.br/)|![Maximus Logo](/sponsors/MaximusSolucoes.png)
+[Wine](https://www.wine.com.br/) | ![Wine Logo](/sponsors/wine.png)
+[WA Project](https://www.waproject.com.br/) | ![WA Logo](/sponsors/wa.png)
