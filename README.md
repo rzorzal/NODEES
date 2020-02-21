@@ -13,7 +13,7 @@ Caso queira submeter uma talk, use esse repositório acessando as issues. Lá de
 
 Você pode falar sobre qualquer assunto relacionado ao tema **(Node.js)** e deixe a sua imaginação fluir :)
 
-Para essa primeira edição, esperamos trabalhos até o dia **26 de Março**.
+Para essa primeira edição, esperamos trabalhos até o dia **19 de Março**.
 
 Use o template de **Talk** para submeter a sua.
 
