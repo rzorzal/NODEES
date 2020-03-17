@@ -5,7 +5,7 @@ O NodeES surgiu com a necessidade de encontros e network de desenvolvedores Node
 
 ## Encontros
 
-Nosso primeiro encontro será realizado no dia **26 de Março** na sede da [Wine](https://www.google.com.br/maps/place/Wine.com.br+-+Sede+Vit%C3%B3ria%2FES/@-20.3156831,-40.2915838,17z/data=!3m1!4b1!4m5!3m4!1s0xb817c839f274b7:0x5a122d6bcbbaea4f!8m2!3d-20.3156831!4d-40.2893897) que fica na Enseada do Suá em Vitória às 19:30.
+Devido ao surto de corona vírus (COVID-19) estamos adiando o evento. Aguardem que vamos remarcar nosso encontro, mas todos os ingresos ainda estão garantidos. Qualquer dúvida pode mandar aqui nas ISSUES :)
 
 ## Call4Papers
 
